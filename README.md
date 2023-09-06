@@ -4,7 +4,7 @@ A discord bot that retrieves cryptocurrency prices from the Coingecko API. It ca
 
 Main Commands:
 
-!crypto price "CRYPTONAME"
+!crypto price h
 
 - Shows the current price of the specified crypto currency (Bitcoin, dogecoin, etc) and shows the price change within the last 24 hours.
 
