@@ -11,3 +11,5 @@ Main Commands:
 !crypto info **cryptoname**
 
 - Shows the market status of the specified crypto currency (Bitcoin, dogecoin, etc) which shows market cap, supply, all time high, and wider time metrics on price changes  
+
+Copyright © Rohit Bellam
